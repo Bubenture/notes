@@ -1,11 +1,11 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+<a href="../README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
 </br>
 # https://bubenture.github.io/notes
 
 
 A web application for creating and managing notes.
 
-![notes](img/notes.png)
+![notes](../img/notes.png)
 
 #### Creating a Note:
 Users can enter text in the input field and click the "Add" button. The new note appears in the list below.
