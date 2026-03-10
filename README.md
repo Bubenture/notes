@@ -1,15 +1,7 @@
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUon.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGoff.svg"></a>
+</br>
 # https://bubenture.github.io/notes
 
-</br>
-<div>
-    <a href="README.md">
-        <img src="https://img.shields.io/badge/README-RU-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
-    </a>
-    <a href="README.en.md">
-        <img src="https://img.shields.io/badge/README-ENG-blue?color=006400&labelColor=006400&style=for-the-badge">
-    </a>
-</div>
-</br>
 
 Сайт-приложение для создания и управления заметками
 
